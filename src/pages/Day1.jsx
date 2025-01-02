@@ -7,7 +7,7 @@ const Day1 = () => {
   return (
     <>
       <div className="p-10">
-        <div className="flex h-screen items-center justify-center space-x-20">
+        <div className="flex  items-center justify-center space-x-20">
           <div>
             <motion.div
               animate={{ x, y, rotate }}
